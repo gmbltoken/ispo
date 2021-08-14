@@ -3,5 +3,5 @@
 “description”: “Offical GMBLE ISPO. Check gmble.io to ensure this is an official pool”,
 “ticker”: “GMBL1”,
 “homepage”: “https://gmble.io”,
-“extended”: “https://yoururl.com 20”
+“extended”: “https://raw.githubusercontent.com/gmbltoken/ispo/main/2.json”
 }
